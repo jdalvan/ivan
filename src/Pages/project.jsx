@@ -5,9 +5,9 @@ export default function Projects() {
   const myProjects = [
     {
       title: "E-Learning Platform",
-      category: "Full Stack (Laravel/React)",
+      category: "Full Stack (Nodejs/React)",
       description: "Architected a modular system for lessons and courses, collaborating with a remote team to manage complex code merges.",
-      tags: ["React", "Laravel", "Tailwind"],
+      tags: ["React", "Nodejs", "Tailwind"],
       link: "#"
     },
     {
